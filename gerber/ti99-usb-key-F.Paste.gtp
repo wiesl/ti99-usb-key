@@ -1,0 +1,15 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,4.0.7*%
+%TF.CreationDate,2017-09-16T19:45:42+02:00*%
+%TF.ProjectId,ti99-usb-key,746939392D7573622D6B65792E6B6963,3.0*%
+%TF.FileFunction,Paste,Top*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 4.0.7) date 09/16/17 19:45:42*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,0.101600*%
+G04 APERTURE END LIST*
+D10*
+M02*

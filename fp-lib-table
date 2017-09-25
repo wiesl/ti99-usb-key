@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name teensy_mod)(type KiCad)(uri "$(KIPRJMOD)/teensy_mod.pretty")(options "")(descr "KiCAD library for Teensy microcontrollers (modified)"))
+  (lib (name UHS_mini_pro)(type KiCad)(uri "$(KIPRJMOD)/UHS_mini_pro.pretty")(options "")(descr "KiCAD library for UHS mini pro"))
+  (lib (name teensy)(type Github)(uri https://github.com/XenGi/teensy.pretty)(options "")(descr "KiCAD library for Teensy microcontrollers"))
+)
